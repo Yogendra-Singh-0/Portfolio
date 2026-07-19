@@ -85,15 +85,15 @@ const Projects = () => {
       github: 'https://github.com/Yogendra-Singh-0/Weather',
     },
     {
-      title: 'Wrist Aura',
-      image: '/assets/projects/wrist.png',
+      title: 'Admin Dashboard UI',
+      image: '/assets/projects/admin.png',
       description: [
-        'Interactive wristwatch-themed web application.',
-        'Smooth frontend animations and dynamic UI interactions for high engagement.',
+        'Built interactive dashboard components including sidebar, tables, cards, and analytics sections.',
+        'Implemented data visualization and optimized the UI for a seamless user experience.',
       ],
-      tech: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://yogendra-singh-0.github.io/wrist-aura/',
-      github: 'https://github.com/Yogendra-Singh-0/wrist-aura',
+      tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'Vercel'],
+      link: 'https://admin-dashboard-ui-two-sigma.vercel.app/',
+      github: 'https://github.com/Yogendra-Singh-0/Admin-Dashboard-UI',
     },
   ];
 
