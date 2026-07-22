@@ -81,7 +81,7 @@ const Projects = () => {
         'Integrates Weather API to fetch real-time atmospheric conditions.',
       ],
       tech: ['React.js', 'Tailwind CSS', 'Weather API', 'ReactBits'],
-      link: 'https://yogendra-singh-0.github.io/Weather/#/',
+      link: 'https://weather-tau-sand-60.vercel.app/',
       github: 'https://github.com/Yogendra-Singh-0/Weather',
     },
     {
